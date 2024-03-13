@@ -1,4 +1,4 @@
 # Dr. Quine
 
->> "Yields falsehood when preceded by its quotation"
+>> "Yields falsehood when preceded by its quotation"  
 > yields falsehood when preceded by its quotation.  
